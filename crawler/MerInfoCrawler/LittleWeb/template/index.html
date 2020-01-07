@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" type="text/css" href=".style.css">
+        <title>Data from Sge JD TaoBao</title>
+        <style>
+            .title {
+                font-family: 微软雅黑;
+                font-size: 26px;
+                font-weight: bold;
+                border-bottom:1px dashed #CCCCCC;
+                color: #255e95;
+            }
+            .topmenu {
+                list-style-type: none;
+                margin: 0;
+                padding: 0;
+                overflow: hidden;
+                background-color: #777;
+            }
+            .topmenu li {
+                float: left;
+            }
+            .topmenu li a {
+                display: inline-block;
+                color: white;
+                text-align: center;
+                padding: 16px;
+                text-decoration: none;
+            }
+            .topmenu li a:hover {
+                background-color: #222;
+            }
+            .topmenu li a.active {
+                color: white;
+                background-color: #4CAF50;
+            }
+            .column {
+                padding: 15px;
+            }
+            .clearfix::after {
+                clear: both;
+                display: table;
+            }
+            .sidemenu {
+                float:left;
+                width: 10%;
+            }
+            .content {
+                float:right;
+                width: 90%;
+            }
+            .sidemenu ul {
+                list-style-type: none;
+                margin: 0;
+                padding: 0;
+            }
+            .sidemenu li a {
+                margin-bottom: 4px;
+                display: block;
+                padding: 8px;
+                background-color: #eee;
+                text-decoration: none;
+                color: #666;
+            }
+            .sidemenu li a:hover {
+                background-color: #555;
+                color: white;
+            }
+            .sidemenu li a.active {
+                background-color: #008CBA;
+                color: white;
+            }
+            #sge,#jd,#taobao {
+                font-family:微软雅黑;
+                border-collapse:collapse;
+            }
+            #sge td, #sge th,#jd td,#jd th,#taobao td,#taobao th
+            {
+                font-size:1em;
+                text-align:center;
+                border:1px solid #98bf21;
+                padding:3px 7px 2px 7px;
+            }
+            #sge th,#jd th,#taobao th
+            {
+                font-size:1.1em;
+                text-align:center;
+                padding-top:5px;
+                padding-bottom:4px;
+                background-color:#A7C942;
+                color:#ffffff;
+            }
+        </style>
+    </head>
+    <body>
+        <ul class="topmenu">
+          <li><a href="#sge_title" class="active">Sge</a></li>
+          <li><a href="#jd_title">京东</a></li>
+          <li><a href="#taobao_title">淘宝</a></li>
+          <li><a>联系我们</a></li>
+          <li><a>关于我们</a></li>
+        </ul>
+        <div class="clearfix">
+            <div class="column sidemenu">
+                <ul>
+                  <li><a href="#sge_title" class="active">上海黄金交易所</a></li>
+                  <li><a href="#jd_title">京东</a></li>
+                  <li><a href="#taobao_title">淘宝</a></li>
+                </ul>
+            </div>
+            <div class="column content">
+                <table id="sge_title" width="100%" border="0" cellspacing="0" cellpadding="0" align="center" style="width:90%">
+                        <tr>
+                            <td align="center" class="title" height="60">上海黄金交易所</td>
+                        </tr>
+                </table>
+                <table id="sge">
+                    <thead>
+                    <tr>
+                        <th>Au99.95</th>
+                        <th>Au99.99</th>
+                        <th>Au100</th>
+                        <th>iAu99.99</th>
+                        <th>Au(T+D)</th>
+                        <th>Au(T+N1)</th>
+                        <th>Au(T+N2)</th>
+                        <th>mAu(T+D)</th>
+                        <th>Pt99.95</th>
+                        <th>Ag99.99</th>
+                        <th>Ag(T+D)</th>
+                        <th>PGC30g</th>
+                        <th>date</th>
+                    </tr>
+                    </thead>
+                    {%for line in form_sge%}
+                        <tr>
+                            <td>{{line.Au95}}</td>
+                            <td>{{line.Au99}}</td>
+                            <td>{{line.Au100}}</td>
+                            <td>{{line.iAu99}}</td>
+                            <td>{{line.AuTD}}</td>
+                            <td>{{line.AuTN1}}</td>
+                            <td>{{line.AuTN2}}</td>
+                            <td>{{line.mAuTD}}</td>
+                            <td>{{line.Pt95}}</td>
+                            <td>{{line.Ag99}}</td>
+                            <td>{{line.AgTD}}</td>
+                            <td>{{line.PGC}}</td>
+                            <td>{{line.date}}</td>
+                        </tr>
+                    {% endfor %}
+                    {%for line in form_avg_sge%}
+                        <tr>
+                            <td>{{line.avg_Au95}}</td>
+                            <td>{{line.avg_Au99}}</td>
+                            <td>{{line.avg_Au100}}</td>
+                            <td>{{line.avg_iAu99}}</td>
+                            <td>{{line.avg_AuTD}}</td>
+                            <td>{{line.avg_AuTN1}}</td>
+                            <td>{{line.avg_AuTN2}}</td>
+                            <td>{{line.avg_mAuTD}}</td>
+                            <td>{{line.avg_Pt95}}</td>
+                            <td>{{line.avg_Ag99}}</td>
+                            <td>{{line.avg_AgTD}}</td>
+                            <td>{{line.avg_PGC}}</td>
+                            <td>平均值</td>
+                        </tr>
+                    {% endfor %}
+                    {%for line in form_var_sge%}
+                        <tr>
+                            <td>{{line.var_Au95}}</td>
+                            <td>{{line.var_Au99}}</td>
+                            <td>{{line.var_Au100}}</td>
+                            <td>{{line.var_iAu99}}</td>
+                            <td>{{line.var_AuTD}}</td>
+                            <td>{{line.var_AuTN1}}</td>
+                            <td>{{line.var_AuTN2}}</td>
+                            <td>{{line.var_mAuTD}}</td>
+                            <td>{{line.var_Pt95}}</td>
+                            <td>{{line.var_Ag99}}</td>
+                            <td>{{line.var_AgTD}}</td>
+                            <td>{{line.var_PGC}}</td>
+                            <td>方差</td>
+                        </tr>
+                    {% endfor %}
+                </table>
+                <table id="jd_title" width="100%" border="0" cellspacing="0" cellpadding="0" align="center" style="width:90%">
+                    <tr>
+                        <td align="center" class="title" height="60">京东黄金</td>
+                    </tr>
+                </table>
+                <table id="jd">
+
+                    <thead>
+                    <tr>
+                        <th>商品</th>
+                        <th>价格</th>
+                        <th>商家</th>
+                    </tr>
+                    </thead>
+                    {%for line in form_jd%}
+                        <tr>
+                            <td>{{line.name}}</td>
+                            <td>{{line.price}}</td>
+                            <td>{{line.shop}}</td>
+                        </tr>
+                    {% endfor %}
+                </table>
+                 <table id="taobao_title" width="100%" border="0" cellspacing="0" cellpadding="0" align="center" style="width:90%">
+                     <tr>
+                         <td align="center" class="title" height="60">天猫黄金</td>
+                     </tr>
+                 </table>
+                <table id="taobao">
+                    <thead>
+                    <tr>
+                        <th>商品</th>
+                        <th>价格</th>
+                        <th>商家</th>
+                    </tr>
+                    </thead>
+                    {%for line in form_tb%}
+                        <tr>
+                            <td>{{line.name}}</td>
+                            <td>{{line.price}}</td>
+                            <td>{{line.shop}}</td>
+                        </tr>
+                    {% endfor %}
+                </table>
+            </div>
+        </div>
+    </body>
+
+</html>

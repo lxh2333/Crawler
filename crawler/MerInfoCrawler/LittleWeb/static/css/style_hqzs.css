@@ -1,0 +1,48 @@
+.border_ea {
+    border: 1px solid #eaeaea;
+}
+.mt30 {
+    margin-top: 30px;
+}
+.mb20 {
+    margin-bottom: 20px;
+}
+.hqzsTitle {
+    color: #fff;
+    font-size: 14px;
+}
+.hqzsTitle table {
+    background: #0080cc;
+    line-height: 30px;
+}
+.hqzsTitle table .txt {
+    text-indent: 20px;
+    color: #fff;
+    font-size: 18px;
+}
+.hqzsTitle .select {
+    width: 140px;
+    height: 30px;
+    border: none;
+}
+select {
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-right: 5px;
+}
+option {
+    font-weight: normal;
+    display: block;
+    white-space: pre;
+    min-height: 1.2em;
+    padding: 0px 2px 1px;
+}
+.hqzsPic {
+    margin: 30px auto;
+    overflow: hidden;
+    border: 1px solid #eaeaea;
+    width: 798px;
+    height: 428px;
+    position: relative;
+    background: #f3f3f3;
+}

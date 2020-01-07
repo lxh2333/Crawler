@@ -1,0 +1,190 @@
+EVENTS | MAR 28 - 30, 2017|TV Connect 2017|London, United Kingdom
+EVENTS | MAR 21 - 24, 2017|MPLS SDN & NFV World Congress 2017|Paris, France
+EVENTS | MAR 20 - 24, 2017|CeBIT2017|Hannover, Germany
+EVENTS | MAR 19 - 23, 2017|The Optical Networking and Communication Conference & Exhibition (OFC) 2017|Los Angeles, United States
+EVENTS | FEB 13 - 17, 2017|RSA Conference 2017|San Francisco, United States
+EVENTS | FEB 14 - 16, 2017|FTTH Conference 2017|Marseille, France
+EVENTS | FEB 06 - 10, 2017|TCEA 2017|Austin, United States
+EVENTS | FEB 07 - 09, 2017|CSTB Expo 2017|Moscow, Russia
+EVENTS | NOV 23 - 25, 2016|2016 Global MBB Forum|Tokyo, Japan
+EVENTS | NOV 14 - 17, 2016|ITU Telecom World 2016|Bangkok, Thailand
+EVENTS | JUN 25 - 26, 2018|Huawei User Group Meeting 2018|Xi'an, China
+EVENTS | JUN 19 - 21, 2018|IFSEC International 2018|London, United Kingdom
+EVENTS | JUN 12 - 14, 2018|5G World 2018|London, United Kingdom
+EVENTS | JUN 06 - 07, 2018|Huawei Asia-Pacific Innovation Day 2018|Bangkok, Thailand
+EVENTS | MAY 14 - 16, 2018|TM Forum Digital Transformation World 2018|Nice, France
+EVENTS | APR 23 - 27, 2018|HANNOVER MESSE 2018|Hannover, Germany
+EVENTS | APR 25 - 26, 2018|IMS World Forum 2018|London, United Kingdom
+EVENTS | APR 17 - 19, 2018|Huawei Global Analyst Summit 2018|Shenzhen, China
+EVENTS | APR 09 - 13, 2018|MPLS+SDN+NFV World Congress 2018|Paris, France
+EVENTS | MAR 20 - 22, 2018|Passenger Terminal Expo 2018|Stockholm, Sweden
+EVENTS | JUN 13 - 15, 2017|TechXLR8 2017|London, United Kingdom
+EVENTS | JUN 13, 2017|Huawei European Innovation Day 2017|London, United Kingdom
+EVENTS | MAY 23 - 24, 2017|IMS World Forum 2017|Madrid, Spain
+EVENTS | MAY 15 - 18, 2017|TM Forum Live! 2017|Nice, France
+EVENTS | MAY 16 - 18, 2017|SAP SapphireNow!|Orlando, United States
+EVENTS | MAY 16 - 18, 2017|Critical Communications World 2017 (CCW)|Hong Kong, China
+EVENTS | MAY 03 - 04, 2017|Turkey ICT Summit 2017|Ankara, Turkey
+EVENTS | APR 24 - 28, 2017|HANNOVER MESSE 2017|Hannover, Germany
+EVENTS | APR 11 - 13, 2017|Huawei Analyst Summit 2017 (HAS2017)|Shenzhen, China
+EVENTS | APR 03 - 06, 2017|HostingCon 2017|Los Angeles, United States
+EVENTS | SEP 26 - 27, 2019|POWERING 5G TOGETHER|Amsterdam, Netherlands
+EVENTS | SEP 24 - 25, 2019|5G Core Summit 2019|Madrid, Spain
+EVENTS | SEP 18 - 20, 2019|Huawei Connect 2019|Shanghai, China
+EVENTS | SEP 18, 2019|Huawei Global Oil & Gas Summit 2019|Shanghai, China
+EVENTS | SEP 03, 2019|Huawei Asia-Pacific Innovation Day 2019|Chengdu, China
+EVENTS | AUG 09 - 10, 2019|2019 HUAWEI DEVELOPER CONFERENCE|Songshan Lake, China
+EVENTS | JUN 27 - 28, 2019|Innovfest Unbound|Singapore
+EVENTS | JUN 26 - 28, 2019|Mobile World Congress Shanghai 2019|Shanghai, China
+EVENTS | JUN 24 - 25, 2019|Huawei User Group Meeting 2019|Wuzhen, China
+EVENTS | JUN 11, 2019|Global 5G Ultra-Lean Site Forum 2019|London, UK
+EVENTS | OCT 10 - 12, 2018|HUAWEI CONNECT 2018|Shanghai, China
+EVENTS | OCT 09 - 10, 2018|Global ICT Energy Efficiency Summit 2018|Turin, Italy
+EVENTS | SEP 26 - 27, 2018|Evolved Packet Core World Forum 2018|Berlin, German
+EVENTS | SEP 25, 2018|Huawei Central Asian Innovation Day 2018|Tashkent City, Uzbekistan
+EVENTS | SEP 18, 2018|The Second Global Site Forum 2018|Singapore
+EVENTS | SEP 10 - 11, 2018|Ultra-Broadband Forum 2018|Geneva, Switzerland
+EVENTS | SEP 03 - 04, 2018|Operations Transformation Forum 2018|Munich, Germany
+EVENTS | JUN 27 - 29, 2018|Mobile World Congress Shanghai 2018|Shanghai, China
+EVENTS | JUN 25 - 28, 2018|NGON 2018 & Huawei Optical Innovation Forum 2018|Nice, France
+EVENTS | JUN 26 - 28, 2018|ConnecTechAsia 2018|Singapore
+EVENTS | MAY 20 - 23, 2019|NGON 2019 & Huawei Optical Innovation Forum 2019|Nice, France
+EVENTS | APR 24 - 25, 2019|Huawei Global FSI Summit 2019|Shanghai, China
+EVENTS | APR 16 - 18, 2019|Huawei Global Analyst Summit 2019|Shenzhen, China
+EVENTS | APR 09 - 12, 2019|MPLS+SDN+NFV World Congress 2019|Paris, France
+EVENTS | APR 01 - 05, 2019|Hannover Messe|Hannover, Germany
+EVENTS | APR 04, 2019|South Africa Eco-Connect 2019|Johannesburg, South Africa
+EVENTS | FEB 25 - 28, 2019|Mobile World Congress 2019|Barcelona, Spain
+EVENTS | NOV 19 - 21, 2018|Global MBB Forum 2018|London, UK
+EVENTS | NOV 07, 2018|Huawei European Innovation Day|Rome, Italy
+EVENTS | OCT 23 - 25, 2018|Broadband World Forum 2018|Berlin, Germany
+EVENTS | NOV 19 - 21, 2019|SCEWC 2019 & Huawei Intelligent City Exhibition|Barcelona, Spain
+EVENTS | NOV 12 - 14, 2019|AfricaCom 2019|Cape Town, South Africa
+EVENTS | NOV 05 - 06, 2019|Voice & Advanced Communication Summit|Berlin, Germany
+EVENTS | NOV 05, 2019|HUAWEI ECO-CONNECT EUROPE 2019|Palais des Congres de Paris, France
+EVENTS | NOV 04, 2019|Huawei European Innovation Day 2019|Paris, France
+EVENTS | OCT 14 - 17, 2019|SDN NFV World Congress|The Hague, Netherlands
+EVENTS | OCT 14 - 17, 2019|Broadband World Forum & Gigaband Industry Summit|Amsterdam, The Netherlands
+EVENTS | OCT 15 - 16, 2019|Global MBB Forum 2019|Zurich, Switzerland
+EVENTS | OCT 06 - 10, 2019|GETIX 2019|Dubai, UAE
+EVENTS | OCT 08 - 09, 2019|Global Antenna Technology & Industry Forum|Amsterdam, Netherlands
+EVENTS | NOV 15 - 16, 2017|2017 Global MBB Forum|London, United Kingdom
+EVENTS | NOV 14, 2017|Huawei Central Asian Innovation Day|Astana, Kazakhstan
+EVENTS | NOV 09, 2017|Huawei Asia-Pacific Innovation Day|Kuala Lumpur, Malaysia
+EVENTS | NOV 07 - 09, 2017|20th Anniversary AfricaCom|Cape Town, South Africa
+EVENTS | OCT 26 - 27, 2017|HUAWEI ECO-CONNECT EUROPE 2017|Berlin, Germany
+EVENTS | OCT 18 - 19, 2017|UBB Forum 2017 (UBBF2017)|Hangzhou, China
+EVENTS | SEP 18 - 19, 2017|Operations Transformation Forum 2017 (OTF2017)|Hong Kong, China
+EVENTS | SEP 05 - 07, 2017|Huawei Connect 2017 (HC2017)|Shanghai, China
+EVENTS | JUL 03 - 04, 2017|2017 Huawei User Group Meeting|Xi'an, China
+EVENTS | JUN 20 - 22, 2017|Next Generation Optical Networking Europe|Nice, France
+EVENTS | OCT 15, 2015|The 4th Global Antenna & AAU Summit|Rome, Italy
+EVENTS | OCT 13, 2015|ITU Telecom World 2015 & Broader Way Forum|Budapest, Hungary
+EVENTS | OCT 12, 2015|NFV Open Cloud Forum 2015|Düsseldorf, Germany
+EVENTS | OCT 07 - 09, 2015|2015 CCA Annual Convention|Fort Lauderdale, United States
+EVENTS | SEP 18 - 19, 2015|HCC2015|Shanghai, China
+EVENTS | SEP 15, 2014 - SEP 17, 2015|Global Professional Services Forum 2014|London, United Kingdom
+EVENTS | SEP 15 - 16, 2015|Global Services Forum 2015|Zurich, Switzerland
+EVENTS | JUN 15 - 18, 2015|OPEN NETWORKING SUBMIT 2015|Santa Clara, United States
+EVENTS | JUN 15 - 16, 2015|Huawei Innovation Day 2015|Munich, Germany
+EVENTS | JUN 09 - 11, 2015|Huawei User Group Meeting|Hangzhou, China
+EVENTS | JUL 11 - 12, 2013|Green Cloud Data Center Evolution|Shenzhen, China
+EVENTS | JUN 26 - 27, 2013|Mobile Asia Expo 2013|Shanghai, China
+EVENTS | JUN 24 - 27, 2013|2013 Huawei User Group Meeting|Shanghai, China
+EVENTS | JUN 18 - 21, 2013|CommunicAsia 2013|Singapore
+EVENTS | MAY 13, 2013|TM Forum's Management World 2013|Nice, France
+EVENTS | MAY 05 - 09, 2013|CeBIT 2013|Hannover, Germany
+EVENTS | APR 23 - 25, 2013|Global Analyst Summit 2013|Shenzhen, China
+EVENTS | MAR 19 - 22, 2013|MPLS & Ethernet World Congress 2013|Paris, France
+EVENTS | FEB 25, 2013|Broader Way Forum at MWC 2013|Barcelona, Spain
+EVENTS | FEB 24, 2013|Band 33-43 Welcome Party @ MWC 2013|Barcelona, Spain
+EVENTS | JUN 07 - 08, 2015|2nd Core Business Transformation Forum|Cancun, Mexico
+EVENTS | MAY 31 - JUN 04, 2015|TM Forum Live! 2015|Nice, France
+EVENTS | JUN 04, 2015|Huawei-CSR Europe Sustainability Conference|Brussels, Belgium
+EVENTS | MAY 26, 2015|Huawei Middle East Digital inCloud inTouch Cooperation Forum|Dubai, United Arab Emirates
+EVENTS | APR 21 - 23, 2015|Huawei Global Analyst Summit 2015|Shenzhen, China
+EVENTS | DEC 07, 2014|Broader Way Forum 2014|Doha, Qatar
+EVENTS | NOV 18 - 21, 2014|Global MBB Forum 2014|Shanghai, China
+EVENTS | NOV 16, 2014|Workshop on Innovative Software Development Methodologies and Practices|HongKong, China
+EVENTS | OCT 30, 2014|2014 Huawei Global Quality Forum (HGQF)|Shenzhen, China
+EVENTS | OCT 21 - 22, 2014|Broadband World Forum 2014|Amsterdam, Netherlands
+EVENTS | OCT 14 - 15, 2014|The Proposal of 2th Indonesia ICT Carnival & LTE Summit|JaKarta, Indonesia
+EVENTS | OCT 14, 2014|NFV Open Cloud Forum|Düsseldorf, Germany
+EVENTS | OCT 14, 2014|The 3rd Global Network Antenna Summit|Amsterdam, Netherlands
+EVENTS | SEP 24 - 25, 2014|Ultra Broadband Forum 2014|London, United Kingdom
+EVENTS | SEP 22 - 25, 2014|SETE Cable-Tech Expo 2014|Denver, Colorado
+EVENTS | JUL 18, 2014|Global Innovation Index 2014|Sydney, Australia
+EVENTS | JUL 08 - 10, 2014|User Group Meeting|ShangHai, China
+EVENTS | JUN 10 - 20, 2014|CommunicAsia 2014 & Enterprise IT 2014|Singapore
+EVENTS | JUN 10, 2014|Mobile Asia Expo 2014|Shanghai, China
+EVENTS | JUN 02, 2014|TM Forum live! 2014|Nice, France
+EVENTS | FEB 24, 2013|3.5 GHz Interest Group Roundtable|Barcelona, Spain
+EVENTS | OCT 30, 2012|UK Broader Way Forum|London, United Kingdom
+EVENTS | OCT 24, 2012|Wireless Network User Group Meeting 2012|Rome, Italy
+EVENTS | OCT 14 - 18, 2012|GITEX Technology Week|Dubai, United Arab Emirates
+EVENTS | OCT 14, 2012|ITU Broader Way Forum|Dubai, United Arab Emirates
+EVENTS | SEP 24, 2012|Global MBB Forum 2012|Vancouver, Canada
+EVENTS | SEP 19 - 20, 2012|IP Technology Gala 2012|Beijing, China
+EVENTS | SEP 19, 2012|LTE Asia 2012|Singapore
+EVENTS | SEP 18 - 19, 2012|Managed Services World Congress 2012|Berlin, Germany
+EVENTS | SEP 05, 2012|Huawei Cloud Congress 2012|Shanghai, China
+EVENTS | NOV 02 - 04, 2016|Operations Transformation Forum 2016|Wuzhen, China
+EVENTS | NOV 02 - 03, 2016|Huawei Innovation Day Asia|Sydney, Australia
+EVENTS | OCT 10 - 14, 2016|Open Cloud Forum 2016|Hague, Netherlands
+EVENTS | SEP 29 - 30, 2016|Ultra-Broadband Forum 2016|Frankfurt, Germany
+EVENTS | AUG 31 - SEP 02, 2016|HUAWEI CONNECT 2016|Shanghai, China
+EVENTS | APR 01 - AUG 26, 2016|UBBS world Tour 2016|Hong Kong - Dubai - Singapore - Moscow - Pretoria - Bariloche
+EVENTS | JUN 28 - JUL 01, 2016|Optical Innovation Forum & Next Generation Optical Networking|Nice, France
+EVENTS | JUN 28 - 30, 2016|2016 Huawei User Group Meeting|Shanghai, China
+EVENTS | JUN 27 - 28, 2016|Huawei Data Center Facility Conference Europe 2016|Frankfurt, Germany
+EVENTS | JUN 15 - 17, 2016|HIFF 2016|Cancun, Mexico
+EVENTS | MAY 22, 2014|Huawei Middle East inTouch Hosting Cooperation Forum|Dubai, United Arab Emirates
+EVENTS | APR 21 - 23, 2014|Global Analyst Summit 2014|Shenzhen, China
+EVENTS | MAR 19 - 20, 2014|South Pacific inTouch Cooperation Summit|Jakarta, Indonesia
+EVENTS | NOV 04 - 07, 2013|Global Mobile Broadband Forum 2013|London, United Kingdom
+EVENTS | NOV 04, 2013|The 2nd Network Antenna Seminar|London, United Kingdom
+EVENTS | OCT 22, 2013|Broadband World Forum 2013|Amsterdam, Netherlands
+EVENTS | OCT 13, 2013|Intelec 2013|Hamburg, Germany
+EVENTS | SEP 17 - 18, 2013|Innovation & Transformation Summit 2013|Xi’an, China
+EVENTS | SEP 16 - 18, 2013|HUAWEI Managed Services World Summit 2013 & Informa Managed Services World Congress 2013|London, United Kingdom
+EVENTS | SEP 17, 2013|HUAWEI Managed Services World Summit 2013|London, United Kingdom
+EVENTS | JUN 14 - 15, 2016|Huawei Innovation Day|Paris, France
+EVENTS | MAY 19, 2016|2016 Telecom Leaders Summit|Dubai, United Arab Emirates
+EVENTS | MAY 09 - 12, 2016|TM Forum Live! 2016|Nice, France
+EVENTS | APR 11 - 13, 2016|HAS 2016|Shenzhen, China
+EVENTS | MAR 22 - 24, 2016|2016 Optical Fiber Communication Conference|California, United States
+EVENTS | MAR 14 - 18, 2016|CeBIT 2016|Hannover, Germany
+EVENTS | FEB 16 - 18, 2016|FTTH Conference 2016|Luxembourg
+EVENTS | NOV 02 - 05, 2015|Global Mobile Broadband Forum 2015|Hong Kong, China
+EVENTS | OCT 22 - 23, 2015|Innovation & Transformation Summit 2015|Bali, Indonesia
+EVENTS | OCT 20 - 22, 2015|Broadband World Forum 2015|London, United Kingdom
+EVENTS | JUL 16 - 17, 2012|Broader Way Forum|Jakarta, Indonesia
+EVENTS | JUN 20 - 22, 2012|Mobile Asia Expo 2012|Shanghai, China
+EVENTS | JUN 19 - 22, 2012|CommunicAsia 2012|Singapore
+EVENTS | JUN 18 - 21, 2012|WDM & Next Generation Optical Networking Conference|Monaco
+EVENTS | MAY 29 - 30, 2012|Subscriber Data Management|Amsterdam, Netherlands
+EVENTS | MAY 21 - 24, 2012|TM Forum Management World 2012|Dublin, Ireland
+EVENTS | APR 25 - 27, 2012|Global Analyst Summit 2012|Shenzhen, China
+EVENTS | APR 24 - 26, 2012|IMS world Forum 2012|Madrid, Spain
+EVENTS | APR 17 - 19, 2012|CEM World Congress 2012|Berlin, Germany
+EVENTS | FEB 27 - MAR 01, 2012|Mobile World Congress 2012|Barcelona, Spain
+EVENTS | FEB 27, 2012|Broadband World Forum 2012|Barcelona, Spain
+EVENTS | OCT 24 - 27, 2011|ITU Telecom World 2011|Geneva, Switzerland
+EVENTS | OCT 19 - 20, 2011|Wireless User Group Meeting 2011|Shanghai, China
+EVENTS | OCT 11 - 13, 2011|Innovation & Transformation Summit Shanghai 2011|Shanghai, China
+EVENTS | SEP 27 - 29, 2011|Broadband World Forum 2011|Paris, France
+EVENTS | SEP 21 - 22, 2011|Informa Managed Services World Congress 2011|Berlin, Germany
+EVENTS | SEP 20, 2011|Global MBB Forum 2011|Berlin, Germany
+EVENTS | SEP 14, 2011|Subscriber Data Management & Policy Control World Seminar 2011|Xi'an, China
+EVENTS | SEP 06 - 08, 2011|Network User Conference& IP Technology Gala 2011|Xi'an, China
+EVENTS | SEP 06, 2011|LTE Asia 2011|Singapore
+EVENTS | JUL 28, 2011|Cloud Computing and Innovation Forum 2011|Istanbul, Turkey
+EVENTS | JUN 11, 2011|CommunicAsia2011|Singapore
+EVENTS | MAY 23, 2011|Innovation & Transformation Summit 2011|Dublin, Ireland
+EVENTS | MAY 22, 2011|TM Forum Management World 2011|Dublin, Ireland
+EVENTS | MAY 09, 2011|Transport Networks for Mobile Operators 2011|London, United Kingdom
+EVENTS | APR 27, 2011|2011 Huawei Global Analyst Summit|Shanghai, China
+EVENTS | APR 05, 2011|Policy Control Conference 2011|Amsterdam, Netherlands
+EVENTS | MAR 20, 2011|Next Generation Core Network Summit 2011|London, United Kingdom
+EVENTS | FEB 17, 2011|Smart for Transformation|Barcelona, Spain
+EVENTS | FEB 08, 2011|MPLS & Ethernet World Congress 2011 and V6 World Congress 2011|Paris, France

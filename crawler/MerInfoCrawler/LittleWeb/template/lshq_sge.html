@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>数据资讯</title>
+
+</head>
+<body>
+    <link rel="stylesheet" type="text/css" href="/static/css/style.css">
+    <link rel="stylesheet" type="text/css" href="/static/css/style_rec.css">
+    <link rel="stylesheet" type="text/css" href="/static/css/style_table.css">
+    <div class="header">
+        <div class="top"></div>
+        <div class="headerCenter center1200">
+            <form id="artsear">
+            <div class="logo"><a href="goldprice.html"><img src="/static/img/logo.gif" width="230" height="60" /></a></div>
+            </form>
+        </div>
+        <div class="nav">
+            <div class="navList">
+                <ul>
+                    <li><a href="goldprice.html">首页</a></li>
+                    <li><a href="goldprice_sge.html">关于</a>
+                        <div class="subnav">
+                            <div class="subnavCenter">
+                                <div class="content1">
+                                    <a href="goldprice_sge.html">上金所介绍</a>
+                                    <a href="goldprice_ctf_rec.html">周大福介绍</a>
+                                    <a href="goldprice_css_rec.html">周生生介绍</a>
+                                </div>
+                                <div class="clear"></div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="current"><a href="jrhq.html">数据资讯</a>
+                        <div class="subnav">
+                            <div class="subnavCenter">
+                                <div class="content1">
+                                    <a href="jrhq.html">今日行情</a>
+                                    <a href="hqzs_sge.html">行情走势-上金所</a>
+                                    <a href="hqzs_ctf.html">行情走势-周大福</a>
+                                    <a href="hqzs_css.html">行情走势-周生生</a>
+                                    <a href="lshq_sge.html">历史行情-上金所</a>
+                                    <a href="lshq_ctf.html">历史行情-周大福</a>
+                                    <a href="lshq_css.html">历史行情-周生生</a>
+                                </div>
+                                <div class="clear"></div>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="jzk_main ">
+        <div class="jzk_newsCenter_Main ">
+            <div class="jzk_title">数据资讯<span>DATA CORPORATION</span></div>
+            <div class="jzk_newsCenter_Cont">
+                <div class="leftColumnNav">
+                    <div class="title">数据资讯</div>
+                    <div class="btnList">
+                        <ul>
+                            <li>
+                                <div class="item"><a href="jrhq.html"><span>今日行情</span></a></div>
+                            </li>
+                            <li>
+                                <div class="item"><a href="hqzs_sge.html"><span>行情走势-上金所</span></a></div>
+                            </li>
+                            <li>
+                                <div class="item"><a href="hqzs_ctf.html"><span>行情走势-周大福</span></a></div>
+                            </li>
+                            <li>
+                                <div class="item"><a href="hqzs_css.html"><span>行情走势-周生生</span></a></div>
+                            </li>
+                            <li class="current">
+                                <div class="item itemCurrent"><a href="lshq_sge.html"><span>历史行情-上金所</span></a></div>
+                            </li>
+                            <li>
+                                <div class="item"><a href="lshq_ctf.html"><span>历史行情-周大福</span></a></div>
+                            </li>
+                            <li>
+                                <div class="item"><a href="lshq_css.html"><span>历史行情-周生生</span></a></div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="jzk_newsCenter_ContRight">
+                    <div class="subpageTitle">
+                        <h2>概述</h2>
+                    </div>
+                    <div class="jzk_newsCenter_meeting">
+                    {%for line in form_sge%}
+                        <div class="title">
+                            <h1>上海黄金交易所{{line.date}}交易行情</h1>
+                            <p><span><i>来源:</i>上海黄金交易所</span><span><i>时间:</i>{{line.date}}</span></p>
+                        </div>
+                        <div class="jzjcont pl30 pt30 pr30 pb30">
+                            <div class="memberName">
+                                <table width="798" border="0">
+                                    <tr class="color333 title" style="height:40px">
+                                        <th width="20%" height="40">品类</th>
+                                        <th width="20%">开盘价</th>
+                                        <th width="20%">收盘价</th>
+                                        <th width="20%">加权平均价</th>
+                                        <th width="10%">涨跌</th>
+                                        <th width="10%">涨跌幅</th>
+                                    </tr>
+                                    <tr class=" border_ea noTop_border ">
+                                        <td align="center" height="40">Au99.99</td>
+                                        <td align="center" class="colorGreen">{{line.Au99_start}}</td>
+                                        <td align="center" class="colorGreen">{{line.Au99_end}}</td>
+                                        <td align="center" class="colorGreen">{{line.Au99_avg}}</td>
+                                        <td align="center" class="colorGreen">{{line.Au99_change}}</td>
+                                        <td align="center" class="colorGreen">{{line.Au99_rate}}</td>
+                                    </tr>
+                                    <tr class=" border_ea noTop_border bgColor_tr">
+                                        <td align="center" height="40">Au99.95</td>
+                                        <td align="center" class="colorGreen">{{line.Au95_start}}</td>
+                                        <td align="center" class="colorGreen">{{line.Au95_end}}</td>
+                                        <td align="center" class="colorGreen">{{line.Au95_avg}}</td>
+                                        <td align="center" class="colorGreen">{{line.Au95_change}}</td>
+                                        <td align="center" class="colorGreen">{{line.Au95_rate}}</td>
+                                    </tr>
+                                    <tr class=" border_ea noTop_border ">
+                                        <td align="center" height="40">Au100</td>
+                                        <td align="center" class="colorGreen">{{line.Au100_start}}</td>
+                                        <td align="center" class="colorGreen">{{line.Au100_end}}</td>
+                                        <td align="center" class="colorGreen">{{line.Au100_avg}}</td>
+                                        <td align="center" class="colorGreen">{{line.Au100_change}}</td>
+                                        <td align="center" class="colorGreen">{{line.Au100_rate}}</td>
+                                    </tr>
+                                    <tr class=" border_ea noTop_border bgColor_tr">
+                                        <td align="center" height="40">iAu99.99</td>
+                                        <td align="center" class="colorGreen">{{line.iAu99_start}}</td>
+                                        <td align="center" class="colorGreen">{{line.iAu99_end}}</td>
+                                        <td align="center" class="colorGreen">{{line.iAu99_avg}}</td>
+                                        <td align="center" class="colorGreen">{{line.iAu99_change}}</td>
+                                        <td align="center" class="colorGreen">{{line.iAu99_rate}}</td>
+                                    </tr>
+                                    <tr class=" border_ea noTop_border ">
+                                        <td align="center" height="40">Au(T+D)</td>
+                                        <td align="center" class="colorGreen">{{line.AuTD_start}}</td>
+                                        <td align="center" class="colorGreen">{{line.AuTD_end}}</td>
+                                        <td align="center" class="colorGreen">{{line.AuTD_avg}}</td>
+                                        <td align="center" class="colorGreen">{{line.AuTD_change}}</td>
+                                        <td align="center" class="colorGreen">{{line.AuTD_rate}}</td>
+                                    </tr>
+                                    <tr class=" border_ea noTop_border bgColor_tr">
+                                        <td align="center" height="40">Au(T+N1)</td>
+                                        <td align="center" class="colorGreen">{{line.AuTN1_start}}</td>
+                                        <td align="center" class="colorGreen">{{line.AuTN1_end}}</td>
+                                        <td align="center" class="colorGreen">{{line.AuTN1_avg}}</td>
+                                        <td align="center" class="colorGreen">{{line.AuTN1_change}}</td>
+                                        <td align="center" class="colorGreen">{{line.AuTN1_rate}}</td>
+                                    </tr>
+                                    <tr class=" border_ea noTop_border ">
+                                        <td align="center" height="40">Au(T+N2)</td>
+                                        <td align="center" class="colorGreen">{{line.AuTN2_start}}</td>
+                                        <td align="center" class="colorGreen">{{line.AuTN2_end}}</td>
+                                        <td align="center" class="colorGreen">{{line.AuTN2_avg}}</td>
+                                        <td align="center" class="colorGreen">{{line.AuTN2_change}}</td>
+                                        <td align="center" class="colorGreen">{{line.AuTN2_rate}}</td>
+                                    </tr>
+                                    <tr class=" border_ea noTop_border bgColor_tr">
+                                        <td align="center" height="40">mAu(T+D)</td>
+                                        <td align="center" class="colorGreen">{{line.mAuTD_start}}</td>
+                                        <td align="center" class="colorGreen">{{line.mAuTD_end}}</td>
+                                        <td align="center" class="colorGreen">{{line.mAuTD_avg}}</td>
+                                        <td align="center" class="colorGreen">{{line.mAuTD_change}}</td>
+                                        <td align="center" class="colorGreen">{{line.mAuTD_rate}}</td>
+                                    </tr>
+                                    <tr class=" border_ea noTop_border ">
+                                        <td align="center" height="40">Pt99.95</td>
+                                        <td align="center" class="colorGreen">{{line.Pt95_start}}</td>
+                                        <td align="center" class="colorGreen">{{line.Pt95_end}}</td>
+                                        <td align="center" class="colorGreen">{{line.Pt95_avg}}</td>
+                                        <td align="center" class="colorGreen">{{line.Pt95_change}}</td>
+                                        <td align="center" class="colorGreen">{{line.Pt95_rate}}</td>
+                                    </tr>
+                                    <tr class=" border_ea noTop_border bgColor_tr">
+                                        <td align="center" height="40">Ag99.99</td>
+                                        <td align="center" class="colorGreen">{{line.Ag99_start}}</td>
+                                        <td align="center" class="colorGreen">{{line.Ag99_end}}</td>
+                                        <td align="center" class="colorGreen">{{line.Ag99_avg}}</td>
+                                        <td align="center" class="colorGreen">{{line.Ag99_change}}</td>
+                                        <td align="center" class="colorGreen">{{line.Ag99_rate}}</td>
+                                    </tr>
+                                    <tr class=" border_ea noTop_border ">
+                                        <td align="center" height="40">Ag(T+D)</td>
+                                        <td align="center" class="colorGreen">{{line.AgTD_start}}</td>
+                                        <td align="center" class="colorGreen">{{line.AgTD_end}}</td>
+                                        <td align="center" class="colorGreen">{{line.AgTD_avg}}</td>
+                                        <td align="center" class="colorGreen">{{line.AgTD_change}}</td>
+                                        <td align="center" class="colorGreen">{{line.AgTD_rate}}</td>
+                                    </tr>
+                                    <tr class=" border_ea noTop_border bgColor_tr">
+                                        <td align="center" height="40">PGC30g</td>
+                                        <td align="center" class="colorGreen">{{line.PGC_start}}</td>
+                                        <td align="center" class="colorGreen">{{line.PGC_end}}</td>
+                                        <td align="center" class="colorGreen">{{line.PGC_avg}}</td>
+                                        <td align="center" class="colorGreen">{{line.PGC_change}}</td>
+                                        <td align="center" class="colorGreen">{{line.PGC_rate}}</td>
+                                    </tr>
+                                </table>
+                            </div>
+                        </div>
+                    {% endfor %}
+                    </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </div>
+    </div>
+</body>

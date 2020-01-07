@@ -1,0 +1,59 @@
+.jzk_newsCenter_meeting {
+    color: #333333;
+}
+.jzk_newsCenter_meeting .title {
+    text-align: center;
+    height: 115px;
+    border-bottom: 1px solid #eaeaea;
+}
+.jzk_newsCenter_meeting .title h1 {
+    font-size: 24px;
+    line-height: 30px;
+    padding-top: 30px;
+}
+.jzk_newsCenter_meeting .title p {
+    line-height: 40px;
+}
+.jzk_newsCenter_meeting .title p span {
+    padding: 0 20px;
+}
+.pb30 {
+    padding-bottom: 30px;
+}
+.pr30 {
+    padding-right: 30px;
+}
+.pl30 {
+    padding-left: 30px;
+}
+.pt30 {
+    padding-top: 30px;
+}
+.memberName {
+    position: relative;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    font-size: inherit;
+}
+.memberName table .title {
+    background: #b2d9f0;
+    border: none;
+    font-size: 14px;
+}
+.noTop_border {
+    border-top-style: none;
+}
+.border_ea {
+    border: 1px solid #eaeaea;
+}
+.colorRed {
+    color: #d00000;
+}
+.bgColor_tr {
+    background: #f4fbff;
+}
+.colorGreen {
+    color: #6C0;
+}

@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>数据资讯</title>
+
+</head>
+<body>
+    <link rel="stylesheet" type="text/css" href="/static/css/style.css">
+    <link rel="stylesheet" type="text/css" href="/static/css/style_rec.css">
+    <link rel="stylesheet" type="text/css" href="/static/css/style_table.css">
+    <link rel="stylesheet" type="text/css" href="/static/css/style_hqzs.css">
+    <script src="/static/js/echarts.common.min.js"></script>
+    <div class="header">
+        <div class="top"></div>
+        <div class="headerCenter center1200">
+            <form id="artsear">
+            <div class="logo"><a href="goldprice.html"><img src="/static/img/logo.gif" width="230" height="60" /></a></div>
+            </form>
+        </div>
+        <div class="nav">
+            <div class="navList">
+                <ul>
+                    <li><a href="goldprice.html">首页</a></li>
+                    <li><a href="goldprice_sge.html">关于</a>
+                        <div class="subnav">
+                            <div class="subnavCenter">
+                                <div class="content1">
+                                    <a href="goldprice_sge.html">上金所介绍</a>
+                                    <a href="goldprice_ctf_rec.html">周大福介绍</a>
+                                    <a href="goldprice_css_rec.html">周生生介绍</a>
+                                </div>
+                                <div class="clear"></div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="current"><a href="jrhq.html">数据资讯</a>
+                        <div class="subnav">
+                            <div class="subnavCenter">
+                                <div class="content1">
+                                    <a href="jrhq.html">今日行情</a>
+                                    <a href="hqzs_sge.html">行情走势-上金所</a>
+                                    <a href="hqzs_ctf.html">行情走势-周大福</a>
+                                    <a href="hqzs_css.html">行情走势-周生生</a>
+                                    <a href="lshq_sge.html">历史行情-上金所</a>
+                                    <a href="lshq_ctf.html">历史行情-周大福</a>
+                                    <a href="lshq_css.html">历史行情-周生生</a>
+                                </div>
+                                <div class="clear"></div>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="jzk_main ">
+        <div class="jzk_newsCenter_Main ">
+            <div class="jzk_title">数据资讯<span>DATA CORPORATION</span></div>
+            <div class="jzk_newsCenter_Cont">
+                <div class="leftColumnNav">
+                    <div class="title">数据资讯</div>
+                    <div class="btnList">
+                        <ul>
+                            <li>
+                                <div class="item"><a href="jrhq.html"><span>今日行情</span></a></div>
+                            </li>
+                            <li>
+                                <div class="item"><a href="hqzs_sge.html"><span>行情走势-上金所</span></a></div>
+                            </li>
+                            <li class="current">
+                                <div class="item itemCurrent"><a href="hqzs_ctf.html"><span>行情走势-周大福</span></a></div>
+                            </li>
+                            <li>
+                                <div class="item"><a href="hqzs_css.html"><span>行情走势-周生生</span></a></div>
+                            </li>
+                            <li>
+                                <div class="item"><a href="lshq_sge.html"><span>历史行情-上金所</span></a></div>
+                            </li>
+                            <li>
+                                <div class="item"><a href="lshq_ctf.html"><span>历史行情-周大福</span></a></div>
+                            </li>
+                            <li>
+                                <div class="item"><a href="lshq_css.html"><span>历史行情-周生生</span></a></div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="jzk_newsCenter_ContRight">
+                    <div class="subpageTitle">
+                        <h2>概述</h2>
+                    </div>
+                    <div class="content border_ea mt30 mb20">
+                        <div class="hqzsTitle">
+                            <table width="860" border="0">
+                                <tbody>
+                                <tr>
+                                    <td height="50" width="370" class="txt">行情走势-周大福</td>
+                                    <td width="130"></td>
+                                    <td style="text-indent: 180px;">
+                                    </td>
+                                </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                         {{data|safe}}
+                    </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </div>
+    </div>
+</body>
